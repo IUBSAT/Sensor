@@ -1,5 +1,5 @@
 # bmeSensor
-code for the bme sensor, with incorrect measurements in rust (i am running rustc and cargo)
+code for the bme sensor, with correct measurements in rust (i am running rustc and cargo)
 
 Note: git would not allow me to add/ push anything in here so I just copies the important files 
 Note 2: you will need to create your own rust project for this and then just copy and paste the files 
