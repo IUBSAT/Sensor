@@ -1,4 +1,5 @@
-# bmeSensor
+# Sensors
+
 code for the bme sensor, with correct measurements in rust (i am running rustc and cargo)
 
 Note: git would not allow me to add/ push anything in here so I just copies the important files 
