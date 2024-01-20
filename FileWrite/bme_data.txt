@@ -1,0 +1,5 @@
+temperature C: 34.5, pressure hPa: 667.99, humidity %: 100, Gas Resistence ohm: 806516 
+temperature C: 25.34, pressure hPa: 1003.41, humidity %: 20.021, Gas Resistence ohm: 100253 
+temperature C: 25.4, pressure hPa: 1003.39, humidity %: 20.71, Gas Resistence ohm: 121128 
+temperature C: 25.48, pressure hPa: 1003.37, humidity %: 21.941, Gas Resistence ohm: 133221 
+temperature C: 25.54, pressure hPa: 1003.39, humidity %: 22.291, Gas Resistence ohm: 141044 
