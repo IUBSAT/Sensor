@@ -1,0 +1,24 @@
+
+NEW TRANSMIT, 1708807025.6532347
+Temp: 23.08 C, Pressure: 987.69 hPa, Humidity: 18.80%, Gas: 2391111.6217206656 Ohms 
+AccelX: 192, AccelY: -3584, AccelZ: -16448
+
+NEW TRANSMIT, 1708807026.6698952
+Temp: 23.08 C, Pressure: 987.68 hPa, Humidity: 18.80%, Gas: 2401786.225233493 Ohms 
+AccelX: 128, AccelY: -3520, AccelZ: -16384
+
+NEW TRANSMIT, 1708807027.50258
+Temp: 23.09 C, Pressure: 987.70 hPa, Humidity: 18.80%, Gas: 2397504.9671398024 Ohms 
+AccelX: 192, AccelY: -3520, AccelZ: -16448
+
+NEW TRANSMIT, 1708807028.0919516
+Temp: 23.09 C, Pressure: 987.70 hPa, Humidity: 18.81%, Gas: 2395370.0566034783 Ohms 
+AccelX: 192, AccelY: -3584, AccelZ: -16512
+
+NEW TRANSMIT, 1708807029.501613
+Temp: 23.08 C, Pressure: 987.70 hPa, Humidity: 18.82%, Gas: 2384752.2834589337 Ohms 
+AccelX: 192, AccelY: -3520, AccelZ: -16448
+
+NEW TRANSMIT, 1708807030.3085322
+Temp: 23.09 C, Pressure: 987.69 hPa, Humidity: 18.83%, Gas: 2382640.0143288006 Ohms 
+AccelX: 0, AccelY: -3584, AccelZ: -16640
